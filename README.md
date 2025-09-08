@@ -12,10 +12,10 @@ My pixel art portfolio.
 
 ![Weapons](Items/WeaponItems.png)
 
-![Crops](Items/CropItems.png)
+![Equipment](Items/Equipment.png)
 
 ![Food](Items/FoodItems.png)
 
-![Tools](Items/ToolItems.png)
+![Crops](Items/CropItems.png)
 
-![Equipment](Items/EquipmentItems.png)
+![Tools](Items/ToolItems.png)
