@@ -2,22 +2,20 @@
 My pixel art portfolio.
 
 # Characters
-![Beetle](Characters/SpikyBeetle.gif)
-
+![Beetle](Characters/SpikyBeetleWalk.gif)
 ![Fish](Characters/HomeFish.gif)
-
 ![Mage](Characters/BloomMage.gif)
 
 # Items
 
-![Artifacts](Characters/Artifacts.png)
+![Artifacts](Items/Artifacts.png)
 
-![Weapons](Characters/WeaponItems.png)
+![Weapons](Items/WeaponItems.png)
 
-![Crops](Characters/CropItems.png)
+![Crops](Items/CropItems.png)
 
-![Food](Characters/FoodItems.png)
+![Food](Items/FoodItems.png)
 
-![Tools](Characters/ToolItems.png)
+![Tools](Items/ToolItems.png)
 
-![Equipment](Characters/EquipmentItems.png)
+![Equipment](Items/EquipmentItems.png)
