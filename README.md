@@ -5,6 +5,8 @@ My pixel art portfolio.
 ![Beetle](Characters/SpikyBeetleWalk.gif)
 ![Fish](Characters/HomeFish.gif)
 ![Mage](Characters/BloomMage.gif)
+![Warlock](Characters/WarlockWalk.gif)
+![Bat](Characters/Bat.gif)
 
 # Items
 
